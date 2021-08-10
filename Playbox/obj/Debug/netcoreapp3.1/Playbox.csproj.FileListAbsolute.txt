@@ -1,0 +1,13 @@
+C:\Users\big_j\source\repos\Playbox\Playbox\bin\Debug\netcoreapp3.1\Playbox.exe
+C:\Users\big_j\source\repos\Playbox\Playbox\bin\Debug\netcoreapp3.1\Playbox.deps.json
+C:\Users\big_j\source\repos\Playbox\Playbox\bin\Debug\netcoreapp3.1\Playbox.runtimeconfig.json
+C:\Users\big_j\source\repos\Playbox\Playbox\bin\Debug\netcoreapp3.1\Playbox.runtimeconfig.dev.json
+C:\Users\big_j\source\repos\Playbox\Playbox\bin\Debug\netcoreapp3.1\Playbox.dll
+C:\Users\big_j\source\repos\Playbox\Playbox\bin\Debug\netcoreapp3.1\Playbox.pdb
+C:\Users\big_j\source\repos\Playbox\Playbox\obj\Debug\netcoreapp3.1\Playbox.csprojAssemblyReference.cache
+C:\Users\big_j\source\repos\Playbox\Playbox\obj\Debug\netcoreapp3.1\Playbox.AssemblyInfoInputs.cache
+C:\Users\big_j\source\repos\Playbox\Playbox\obj\Debug\netcoreapp3.1\Playbox.AssemblyInfo.cs
+C:\Users\big_j\source\repos\Playbox\Playbox\obj\Debug\netcoreapp3.1\Playbox.dll
+C:\Users\big_j\source\repos\Playbox\Playbox\obj\Debug\netcoreapp3.1\Playbox.pdb
+C:\Users\big_j\source\repos\Playbox\Playbox\obj\Debug\netcoreapp3.1\Playbox.genruntimeconfig.cache
+C:\Users\big_j\source\repos\Playbox\Playbox\obj\Debug\netcoreapp3.1\Playbox.csproj.CoreCompileInputs.cache
